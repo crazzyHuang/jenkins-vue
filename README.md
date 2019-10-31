@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # jenkins-vue-project
 
 ## Project setup
@@ -23,6 +22,3 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# jenkins-vue
->>>>>>> a7034f1a519ed2cbb3cc0508000533e0923a1bb7
